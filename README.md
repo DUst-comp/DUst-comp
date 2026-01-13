@@ -1,4 +1,40 @@
-## Hi there 👋
+<style>
+    * {
+    margin : 5px
+    }
+</style>
+<h1 align="center">Охаё, меня зовут Митя</h1>
+<h2 align="center">Я музыковед и немного кодер из России</h2>
+
+<h3 align="left">Чем я занимаюсь</h3>
+<ul>
+    <li>
+        <b>Сочиняю музыку</b>
+        <p>Некоторые мои сочинения можно послушать<a href="https://vk.com/dust_comp">здесь</a></p>
+    </li>
+    <li><b>Учусь писать код</b></li>
+    <li><b>В качестве хобби моделирую в Blender</b></li>
+
+</ul>
+
+<h3 align="left"></h3>
+
+
+<h3 align="left"></h3>
+
+
+<h3 align="left">Мои контакты</h3>
+
+<p align="left">
+    Telegram:
+    <a href="https://t.me/mitakrutoy">https://t.me/mitakrutoy</a>
+</p>
+<p align="left">
+    Телефон: 8(966)198-32-52
+</p>
+<p align="left">
+    Почта: skie_link@mail.ru
+</p>
 
 <!--
 **DUst-comp/DUst-comp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
