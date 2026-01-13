@@ -3,8 +3,9 @@
     margin : 5px
     }
 </style>-->
-<img src="https://avatars.mds.yandex.net/i?id=dc5041e6e8826683cf0ab67e950adfc5-5239481-images-thumbs&n=13" align="center">
-
+<div align="center">
+   <img src="https://avatars.mds.yandex.net/i?id=dc5041e6e8826683cf0ab67e950adfc5-5239481-images-thumbs&n=13">
+</div>
 <h1 align="center">Охаё, меня зовут Митя</h1>
 <h3 align="center">Я музыковед и немного кодер из России</h3>
 
