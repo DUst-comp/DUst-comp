@@ -1,8 +1,8 @@
-<style>
+<!--<style>
     * {
     margin : 5px
     }
-</style>
+</style>-->
 <h1 align="center">Охаё, меня зовут Митя</h1>
 <h2 align="center">Я музыковед и немного кодер из России</h2>
 
