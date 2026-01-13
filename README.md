@@ -3,6 +3,8 @@
     margin : 5px
     }
 </style>-->
+<img src="https://cdn.dribbble.com/users/565242/screenshots/2550967/string.gif">
+
 <h1 align="center">Охаё, меня зовут Митя</h1>
 <h3 align="center">Я музыковед и немного кодер из России</h3>
 
