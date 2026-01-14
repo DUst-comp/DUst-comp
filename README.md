@@ -44,9 +44,6 @@
     <a href="https://t.me/mitakrutoy">https://t.me/mitakrutoy</a>
 </p>
 <p align="left">
-    Телефон: 8(966)198-32-52
-</p>
-<p align="left">
     Почта: skie_link@mail.ru
 </p>
 
